@@ -1,0 +1,4 @@
+Why do we need reduxtoolkit?
+1) Identifiers
+2) Amount of data
+3) State of redux store
